@@ -16,13 +16,7 @@
        - easy learning.
     1. Currently I am studying and doing home projects in order to gain experience before my first job.
 
-1.  **Technical skills:**
-           1. HTML5,
-           2. CSS3 (Flexbox, Grid, Float, Scss/Sass),
-           3. JavaScript (ES6),
-           4. Git,
-           5. Figma / Adobe Photoshop,
-           6. ReactJS (basics).
+1.  **Technical skills:** 1. HTML5, 2. CSS3 (Flexbox, Grid, Float, Scss/Sass), 3. JavaScript (ES6), 4. Git, 5. Figma / Photoshop, 6. ReactJS (basics).
 
 1.  Code examples: https://github.com/keybr1 .
 
