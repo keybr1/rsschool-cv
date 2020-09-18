@@ -1,6 +1,6 @@
 # CV Frontend Developer (keybr1)
 
-## Max Efimenko (Novosibirsk).
+## Max Efimenko (Novosibirsk, Russia).
 
 1.  My contacts: _+7 (913) 750-01-50_ / **maximefim@gmail.com**.
 
